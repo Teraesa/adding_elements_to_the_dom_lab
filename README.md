@@ -2,29 +2,29 @@
 
 # Adding Elements to the DOM Lab
 
-## Getting Started 
-* Fork this repo
-* Clone the forked repository
-* `cd` to the directory where you cloned it
-* `npm install` to install dependencies
-* `npm test` to open the cypress testing window
+## Getting Started
 
+- Fork this repo
+- Clone the forked repository
+- `cd` to the directory where you cloned it
+- `npm install` to install dependencies
+- `npm test` to open the cypress testing window
 
-> *Note*: Remember to `git add`, `git commit` and `git push` regularly
+> _Note_: Remember to `git add`, `git commit` and `git push` regularly
 
 ## Submission Guidelines
-  * When finished, commit and push your work.
-  * Make a pull request on github.
-  * Submit the link to your pull request on Canvas. 
 
+- When finished, commit and push your work.
+- Make a pull request on github.
+- Submit the link to your pull request on Canvas.
 
 # Question One: Text Duplicator
 
-Make a website (`textDuplicator.html`) with a text input, a number input and a button.  Clicking on the button should add that many copies of the text in the text input to a list.
+Make a website (`textDuplicator.html`) with a text input, a number input and a button. Clicking on the button should add that many copies of the text in the text input to a list.
 
 # Question Two: Number Statistics
 
-Make a website (`numberStatistics.html`) with a number input, a button, and 3 paragraphs.  Clicking on the button should add the number to a list.  The first paragraph should show the average of all the numbers, the second paragraph should show the maximum value, and the third paragraph should show the minimum value.
+Make a website (`numberStatistics.html`) with a number input, a button, and 3 paragraphs. Clicking on the button should add the number to a list. The first paragraph should show the average of all the numbers, the second paragraph should show the maximum value, and the third paragraph should show the minimum value.
 
 # Question Three: Random User List
 
